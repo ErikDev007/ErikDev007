@@ -49,8 +49,8 @@ As tecnologias HTML, CSS e JavaScript foram utilizadas para criar uma aplicaçã
 ## Entre em Contato
 
 - [LinkedIn](https://www.linkedin.com/in/erik-lima-programador/)
-- [Portiflio](https://www.linkedin.com/in/erik-lima-programador/)
-- [WhatsApp](https://www.linkedin.com/in/erik-lima-programador/)
+- [Portiflio](https://erik-lima.netlify.app/)
+- [WhatsApp](https://api.whatsapp.com/send?phone=5585992013054)
 
 <!---
 ErikDev007/Erik Lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
