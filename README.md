@@ -43,7 +43,7 @@ As tecnologias HTML, CSS e JavaScript foram utilizadas para criar uma aplicaçã
 
 ## Estatísticas do GitHub
 <div>
-<img Heigh="180em" src="https://github-readme-stats.vercel.app/api?username=ErikDev007&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ErikDev007&show_icons=true&theme=dracula"/>
 </div>
 
 ## Entre em Contato
