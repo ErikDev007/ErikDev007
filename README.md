@@ -13,7 +13,7 @@
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, faço técnico em desenvolvimento de sistemas e graduação em analise e desenvolvimento de sistemas.
 
 ## Sobre Mim
-- 🌱 Atualmente estou aprendendo **Flutter**, **Tailwild** e **Node.js**.
+- 🌱 Atualmente estou aprendendo **Flutter**, **Node.js**.
 - 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
 - 💬 Pergunte-me sobre **Javascript**, **Dart**, e **React**.
 - 📫 Como me encontrar: [Eriklima832@gmail.com](gmailto:Eriklima832@gmail.com)
